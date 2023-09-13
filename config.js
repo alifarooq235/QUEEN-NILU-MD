@@ -17,7 +17,7 @@ function convertToBool(text, fault = 'true') {
 global.SESSION_ID = 'QueenNilu;;;c7QXHKAI#aE44IsJLPTRor4MdryYJAKUntf5jmcEhaL9ytacXHLU' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://tcedtuto:o_H-2RYfEwjuR8TF9JsoABWzsntcV6aP@berry.db.elephantsql.com/tcedtuto'
 
 
 
